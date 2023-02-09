@@ -1,0 +1,10 @@
+com\tbp\kafka\controller\KafkaController.class
+com\tbp\kafka\config\KafkaConfiguration.class
+com\tbp\kafka\utility\KafkaUtils.class
+com\tbp\kafka\consumer\KafkaEventListener.class
+com\tbp\kafka\config\KafkaProducerInterceptor.class
+com\tbp\kafka\model\Book.class
+com\tbp\kafka\model\ConsumerDto.class
+com\tbp\kafka\model\Test.class
+com\tbp\kafka\SpringBootKafkaProducerConsumerApplication.class
+com\tbp\kafka\producer\KafkaMessageProducer.class
